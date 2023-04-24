@@ -1,0 +1,20 @@
+INTERVIEW QUESTIONS -1 
+https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/
+
+Algorithms and Data Structures Cheatsheet
+https://algs4.cs.princeton.edu/cheatsheet/
+
+An Executable Data Structures Cheat Sheet for Interviews
+https://algodaily.com/lessons/an-executable-data-structures-cheat-sheet
+
+Big O Notation Cheat Sheet
+https://algodaily.com/lessons/big-o-notation-cheat-sheet
+
+Data Structures and Algorithms Cheat Sheet - Cheatography
+https://cheatography.com/burcuco/cheat-sheets/data-structures-and-algorithms/
+
+Algorithms
+https://github.com/keon/algorithms
+
+Algorithms-Python
+https://github.com/TheAlgorithms/Python
